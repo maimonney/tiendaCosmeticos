@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "nombre": "Laura",
+        "apellido": "Rodrigez",
+        "foto": "/public/img_usuario/laura_rodrigez.jpg",
+        "email": "laura.alonso@gmail.com",
+        "pass": "alonso123",
+        "ultimaCompra":"06-11-2023"
+    },
+    {
+        "id": 2,
+        "nombre": "Paula",
+        "apellido": "Perez",
+        "foto": "/public/img_usuario/paula_perez.jpg",
+        "email": "paula.perez@gmail.com",
+        "pass": "paula123",
+        "ultimaCompra":"22-07-2024"
+    },
+    {
+        "id": 3,
+        "nombre": "Hector",
+        "apellido": "Acuña",
+        "foto": "/public/img_usuario/hector_acunia.jpg",
+        "email": "hector.acuna@gmail.com",
+        "pass": "hector123",
+        "ultimaCompra":"05-02-2024"
+    },
+    {
+        "id": 4,
+        "nombre": "Federico",
+        "apellido": "Cruz",
+        "foto": "/public/img_usuario/federico_cruz.jpg",
+        "email": "federico.cruz@gmail.com",
+        "pass": "cruz123",
+        "ultimaCompra":"11-06-2023"
+    },
+    {
+        "id": 5,
+        "nombre": "Laura",
+        "apellido": "Alonso",
+        "foto": "/public/img_usuario/laura_alonso.jpg",
+        "email": "laura.alonso@gmail.com",
+        "pass": "alonso123",
+        "ultimaCompra":"06-11-2023"
+    },
+    {
+        "id": 6,
+        "nombre": "Vanesa",
+        "apellido": "Perez",
+        "foto": "/public/img_usuario/vanesa_perez.jpg",
+        "email": "vanesa.perez@gmail.com",
+        "pass": "perez123",
+        "ultimaCompra":"20-01-2024"
+    },
+    {
+        "id": 7,
+        "nombre": "Franco",
+        "apellido": "Acuña",
+        "foto": "/public/img_usuario/franco_acunia.jpg",
+        "email": "federico.alonso@gmail.com",
+        "pass": "federico123",
+        "ultimaCompra":"11-11-2023"
+    },
+    {
+        "id": 8,
+        "nombre": "Federico",
+        "apellido": "Alonso",
+        "foto": "/public/img_usuario/federico_alonso.jpg",
+        "email": "federico.alonso@gmail.com",
+        "pass": "federico123",
+        "ultimaCompra":"11-11-2023"
+    }
+    
+]

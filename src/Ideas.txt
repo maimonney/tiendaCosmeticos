@@ -1,0 +1,12 @@
+Ideas de formularios:
+-Reseña (checkbox, texto)
+-Formulario de Contacto (Propósito: Permitir a los usuarios ponerse en contacto contigo para consultas o soporte.
+Campos: Nombre, correo electrónico, asunto, mensaje.)
+-Formulario de Búsqueda (nombre, correo, mensaje)
+-Cargar archivos
+-------
+aplicar la funcion de lectura
+-------
+Ideas vistas
+-seguir leyendo
+-escribir¿?

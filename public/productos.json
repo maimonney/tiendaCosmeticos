@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nombre": "Luminizador líquido: Positive Light - Transcend",
+        "foto": "/public/img_productos/luminizer_transcend.jpg",
+        "descripcion": "Un iluminador líquido sedoso, como una segunda piel, que crea un brillo instantáneamente húmedo y edificable, al mismo tiempo que nutre la piel para que luzca brillante durante todo el día.",
+        "precio": 20000,
+        "stock": 20
+    },
+    {
+        "id": 2,
+        "nombre": "Rubor líquido: Soft Pinch - Hope",
+        "foto": "/public/img_productos/soft_pinch_liquid_blush_dewy_hope.jpg",
+        "descripcion": "Un rubor líquido ligero y duradero que se difumina y desarrolla maravillosamente para un rubor suave y saludable. Disponible en acabados mate y húmedo.",
+        "precio": 15000,
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "nombre": "Lip Oil: Soft Pinch - Affection",
+        "foto": "/public/img_productos/soft_pinch_tinted_lip_oil_affection.jpg",
+        "descripcion": "Una innovadora gelatina para labios que se transforma en un aceite liviano, comienza brillante y luego deja los labios teñidos mientras se mantienen cómodos, nunca pegajosos, durante todo el día.",
+        "precio": 15000,
+        "stock": 15
+    },
+    {
+        "id": 4,
+        "nombre": "Máscara: Perfect Strokes",
+        "foto": "/public/img_productos/voluminizing_mascara.jpg",
+        "descripcion": "Creada para cada tipo de pestañas, esta máscara todo en uno combina una fórmula ligera y fácil de crear con un cepillo universal que abraza los ojos para levantar, alargar, rizar y dar volumen a cada pestaña desde todos los ángulos.",
+        "precio": 25000,
+        "stock": 0
+    },
+    {
+        "id": 5,
+        "nombre": "Luminizador: Positive Light - Flaunt",
+        "foto": "/public/img_productos/positive_light_silky_touch_highlighter_flaunt.jpg",
+        "descripcion": "Un innovador iluminador en polvo que le da a la piel un brillo instantáneo similar al cristal para un brillo fácil, de apariencia natural y duradero.",
+        "precio": 10000,
+        "stock": 5
+    },
+    {
+        "id": 6,
+        "nombre": "Polvo compacto: True to Myself - Natural",
+        "foto": "/public/img_productos/true_to_myself_tinted_pressed_finishing_poweder.jpg",
+        "descripcion": "Un polvo con color ingrávido que lo hace todo: difumina, suaviza, reduce el brillo y fija el maquillaje al instante con un acabado natural que se mantiene fiel a ti y a tu piel. Esta fórmula sin talco brinda un efecto de nube difusa que permite que la luminosidad se filtre y se aplique de manera perfecta (e indetectable) sobre la piel desnuda o el maquillaje. ",
+        "precio": 25000,
+        "stock": 10
+    }
+]

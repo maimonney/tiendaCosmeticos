@@ -1,0 +1,23 @@
+{
+  "name": "rarebeauty",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pdf-vue3": "^1.0.12",
+    "vue": "^3.4.30",
+    "vue-pdf": "^1.0.0",
+    "vue-pdf-app": "^2.1.0",
+    "vue-router": "^4.4.0",
+    "vue3-pdfjs": "^0.0.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.8"
+  }
+}
